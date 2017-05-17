@@ -1,0 +1,54 @@
+.title {
+  font-weight: bold;
+}
+
+body {
+  margin-right: 150px;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.textbox {
+  margin: 0;
+  font-size: 20px;
+  text-align: justify;
+}
+
+#welcome {
+  font-weight: bold;
+  font-size: 20px;
+  text-align: right;
+}
+#medias {
+}
+.image {
+  height: 100px;
+  width: 100px;
+  padding: 25px;
+  margin: 10px;
+  float: left;
+  display: block;
+
+}
+#bottomtext {
+  text-align: center;
+  padding: 20px;
+  border-top: .5px solid #aaa;
+  clear: both;
+}
+#human {
+  display: inline;
+}
+#commitment {
+  white-space: nowrap;
+  display: inline;
+}
+.linksatbottom {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+footer {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+
+}
